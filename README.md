@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey! :wave: Great to see you've made it here. Check out some stats about me!
 
-<!--
-**computablee/computablee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github stats](https://github-readme-stats-tau-swart-98.vercel.app/api?username=computablee&include_all_commits=true&number_format=long) ![Top Langs](https://github-readme-stats-tau-swart-98.vercel.app/api/top-langs/?username=computablee&langs_count=8&layout=compact&hide=roff,m4,fortran,shell,tex,awk,makefile,jupyter%20notebook&exclude_repo=numa-ich,perf-opteron,github-readme-stats)
 
-Here are some ideas to get you started:
+### Here's what I'm currently working on :desktop_computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![DotMP](https://github-readme-stats.vercel.app/api/pin/?username=computablee&repo=DotMP)](https://github.com/computablee/DotMP)
+
+### And here's some of my favorite work in the past! :microscope:
+
+[![heterogeneous-spmv](https://github-readme-stats.vercel.app/api/pin/?username=computablee&repo=heterogeneous-spmv)](https://github.com/computablee/heterogeneous-spmv)
+[![rome-memory-barrier](https://github-readme-stats.vercel.app/api/pin/?username=computablee&repo=rome-memory-barrier)](https://github.com/computablee/rome-memory-barrier)
+[![free-real-estate](https://github-readme-stats.vercel.app/api/pin/?username=computablee&repo=free-real-estate-fork)](https://github.com/computablee/free-real-estate-fork)
+[![Minecraft-DS](https://github-readme-stats.vercel.app/api/pin/?username=computablee&repo=Minecraft-DS)](https://github.com/computablee/Minecraft-DS)
