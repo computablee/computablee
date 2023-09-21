@@ -1,5 +1,8 @@
 ### Hey! :wave: Great to see you've made it here. Check out some stats about me!
 
+If it doesn't load, please refresh the page!
+I'm self-hosting so that it shows data about private repos, but unfortunately that means it tends to time out the first time it's loaded.
+
 ![Github stats](https://github-readme-stats-tau-swart-98.vercel.app/api?username=computablee&include_all_commits=true&number_format=long) ![Top Langs](https://github-readme-stats-tau-swart-98.vercel.app/api/top-langs/?username=computablee&langs_count=8&layout=compact&hide=roff,m4,fortran,shell,tex,awk,makefile,jupyter%20notebook&exclude_repo=numa-ich,perf-opteron,github-readme-stats)
 
 ### Here's what I'm currently working on :desktop_computer:
