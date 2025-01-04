@@ -8,6 +8,7 @@ I'm self-hosting so that it shows data about private repos, but unfortunately th
 ### Here's what I'm currently working on :desktop_computer:
 
 [![DotMP](https://github-readme-stats.vercel.app/api/pin/?username=computablee&repo=DotMP)](https://github.com/computablee/DotMP)
+[![100 Elo Chess Engine](https://github-readme-stats.vercel.app/api/pin/?username=computablee&repo=100-Elo-Chess-Engine)](https://github.com/computablee/100-Elo-Chess-Engine)
 
 ### And here's some of my favorite work in the past! :microscope:
 
